@@ -1,5 +1,5 @@
 - Hi, I’m @Jaimelan
-- I’m work in bioinformatics, developing research projects with special focus in transcriptomics
+- I work in bioinformatics // conputational biology, developing research projects with special focus in transcriptomics
 - I am open to collaborate on any computational biology and related projects (NGS, Systems Biology, etc).
 - How to reach me: You can message me to my email jlleraoy@gmail.com
 
