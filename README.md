@@ -1,7 +1,7 @@
 - Hi, I’m @Jaimelan
-- I’m work in bioinformatics, developing research projects
-- I’m looking to collaborate on any Data Science in Life Sciences related projects (NGS, Systems Biology, etc).
-- How to reach me: You can message me via GitHub.
+- I’m work in bioinformatics, developing research projects with special focus in transcriptomics
+- I am open to collaborate on any computational biology and related projects (NGS, Systems Biology, etc).
+- How to reach me: You can message me to my email jlleraoy@gmail.com
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
