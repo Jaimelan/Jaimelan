@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Jaimelan
-- 👀 I’m interested in bioinformatics projects and tools as well as any other type of Data Science
-- 🌱 I’m currently learning to code Python3, R.
-- 💞️ I’m looking to collaborate on any Data Science in Life Sciences related projects (NGS, Systems Biology, etc).
-- 📫 How to reach me: You can message me via GitHub.
+- Hi, I’m @Jaimelan
+- I’m work in bioinformatics, developing research projects
+- I’m looking to collaborate on any Data Science in Life Sciences related projects (NGS, Systems Biology, etc).
+- How to reach me: You can message me via GitHub.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
